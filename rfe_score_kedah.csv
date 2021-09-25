@@ -1,0 +1,21 @@
+,Features,Score
+1,cases_new,1.0
+2,cases_recovered,1.0
+3,rtk-ag,1.0
+4,pcr,1.0
+0,cases_import,0.94
+10,state_Pahang,0.88
+12,state_Perlis,0.81
+8,state_Melaka,0.75
+6,state_Kedah,0.69
+9,state_Negeri Sembilan,0.62
+7,state_Kelantan,0.56
+13,state_Pulau Pinang,0.5
+17,state_W.P. Kuala Lumpur,0.44
+15,state_Sarawak,0.38
+16,state_Terengganu,0.31
+18,state_W.P. Labuan,0.25
+19,state_W.P. Putrajaya,0.19
+5,state_Johor,0.12
+14,state_Sabah,0.06
+11,state_Perak,0.0
